@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """create an index.html file that shows a listing with all folders
    and files linked.
 
@@ -34,6 +36,9 @@ def create_listing_index_file(path='.', name='index.html'):
                 ['<p style="font-size: 70%">Created: {}</p>'.format(time.asctime()),
                  '</body>',
                  '</html>']])
+    else:
+        print('Warning: nothing done as {} already exists.'
+              ' Remove it before to run this script.'.format(filename))
 
 def _create_all_subfolders_listing_index_files(path='.', name='index.html'):
     """walk through all subfolders, often not a good idea as there are too many exceptions"""
