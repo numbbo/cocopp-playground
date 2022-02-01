@@ -1,0 +1,15 @@
+suite = 'bbob-constrained', funcId = 33, DIM = 2, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f33/bbobexp_f33_DIM2_i1.dat, 1:45|1.2e-09, 2:39|1.2e-09, 3:116|1.2e-09, 4:73|5.9e-09, 5:30|1.2e-09, 6:57|1.2e-09, 7:24|8.2e-09, 8:66|1.2e-09, 9:53|2.2e-09, 10:42|1.2e-09, 11:36|1.2e-09, 12:33|1.2e-09, 13:33|1.1e-09, 14:45|7.4e-09, 15:37|1.2e-09
+suite = 'bbob-constrained', funcId = 33, DIM = 3, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f33/bbobexp_f33_DIM3_i1.dat, 1:248|1.6e-09, 2:65|1.2e-09, 3:111|6.2e-09, 4:1512|2.5e-06, 5:107|1.2e-09, 6:279|1.2e-09, 7:103|1.2e-09, 8:854|1.2e-09, 9:411|1.1e-09, 10:123|1.2e-09, 11:192|4.2e-10, 12:44|1.2e-09, 13:567|9.9e-09, 14:62|1.1e-09, 15:53|1.8e-09
+suite = 'bbob-constrained', funcId = 33, DIM = 5, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f33/bbobexp_f33_DIM5_i1.dat, 1:231|6.0e-09, 2:608|9.4e-09, 3:219|2.6e-11, 4:260|9.4e-09, 5:290|1.8e-09, 6:1483|3.7e-09, 7:413|8.9e-09, 8:174|2.6e-09, 9:205|1.0e-08, 10:1158|9.4e-09, 11:170|3.7e-09, 12:396|9.8e-09, 13:1263|9.7e-09, 14:209|2.4e-09, 15:1283|1.0e-08
+suite = 'bbob-constrained', funcId = 33, DIM = 10, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f33/bbobexp_f33_DIM10_i1.dat, 1:5011|3.0e-02, 2:5015|5.6e-08, 3:5011|4.0e-08, 4:2484|9.0e-09, 5:5003|2.5e-04, 6:5004|3.4e-08, 7:5007|1.0e-08, 8:5014|3.3e-08, 9:5003|6.5e-07, 10:5006|1.2e-05, 11:5006|4.5e-08, 12:5009|9.2e-09, 13:5005|4.4e-08, 14:1286|9.3e-09, 15:866|9.8e-09
+suite = 'bbob-constrained', funcId = 33, DIM = 20, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f33/bbobexp_f33_DIM20_i1.dat, 1:10004|1.8e-07, 2:10015|2.2e-07, 3:10005|1.3e-07, 4:10008|1.7e-06, 5:10010|4.1e-08, 6:10014|1.3e-07, 7:10012|1.6e-07, 8:10006|1.4e-07, 9:10019|8.1e-07, 10:10028|9.4e-07, 11:10011|1.9e-07, 12:10019|1.2e-04, 13:10014|1.2e-05, 14:10006|1.7e-07, 15:10014|3.6e-06

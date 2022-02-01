@@ -1,0 +1,15 @@
+suite = 'bbob-constrained', funcId = 35, DIM = 2, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f35/bbobexp_f35_DIM2_i1.dat, 1:37|1.5e-09, 2:93|1.6e-09, 3:204|1.5e-09, 4:40|1.6e-09, 5:36|1.6e-09, 6:87|1.6e-09, 7:141|1.6e-09, 8:27|1.6e-09, 9:54|4.4e-09, 10:108|1.6e-09, 11:30|1.5e-09, 12:241|1.6e-09, 13:40|1.6e-09, 14:33|1.6e-09, 15:30|1.5e-09
+suite = 'bbob-constrained', funcId = 35, DIM = 3, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f35/bbobexp_f35_DIM3_i1.dat, 1:468|1.8e-09, 2:607|1.8e-09, 3:46|1.7e-09, 4:44|1.8e-09, 5:1288|1.7e-09, 6:1077|1.8e-09, 7:424|1.7e-09, 8:120|2.2e-09, 9:955|2.4e-09, 10:197|1.8e-09, 11:165|1.9e-09, 12:977|1.8e-09, 13:210|1.8e-09, 14:59|1.9e-09, 15:230|2.8e-09
+suite = 'bbob-constrained', funcId = 35, DIM = 5, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f35/bbobexp_f35_DIM5_i1.dat, 1:385|3.5e-10, 2:1691|4.9e-09, 3:2503|4.4e-08, 4:459|8.7e-09, 5:793|1.0e-08, 6:733|2.1e-09, 7:1466|8.8e-09, 8:2221|2.2e-09, 9:248|3.0e-09, 10:620|2.2e-09, 11:786|9.8e-09, 12:2502|4.3e-08, 13:2501|4.3e-08, 14:981|2.2e-09, 15:91|2.6e-09
+suite = 'bbob-constrained', funcId = 35, DIM = 10, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f35/bbobexp_f35_DIM10_i1.dat, 1:556|7.0e-09, 2:787|2.3e-09, 3:843|5.9e-10, 4:429|7.3e-09, 5:1072|9.8e-09, 6:914|1.5e-09, 7:1091|6.0e-10, 8:598|1.4e-09, 9:795|4.7e-09, 10:658|3.9e-09, 11:683|1.6e-09, 12:960|3.5e-10, 13:1294|9.2e-09, 14:811|9.7e-09, 15:416|5.8e-09
+suite = 'bbob-constrained', funcId = 35, DIM = 20, Precision = 1.000e-08, algId = 'fmincon', coco_version = '2.4.83', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f35/bbobexp_f35_DIM20_i1.dat, 1:2760|7.7e-09, 2:3243|9.6e-09, 3:1793|9.0e-09, 4:10003|1.2e-08, 5:2264|1.6e-09, 6:3297|9.7e-09, 7:2641|4.5e-09, 8:1351|9.4e-09, 9:1355|2.0e-09, 10:2669|8.7e-09, 11:1725|9.3e-09, 12:2331|4.7e-10, 13:3124|9.6e-09, 14:1864|9.7e-09, 15:1317|4.2e-09
